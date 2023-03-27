@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+pytorch
+opencv-python
+nltk
+gensim
+xgboost
+music21ss
